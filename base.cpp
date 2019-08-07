@@ -1,3 +1,11 @@
+/* 
+ * File:   base.cpp
+ * Author: cantaro86
+ *
+ * Created on 14 gennaio 2019, 11.22
+ */
+
+
 #include "base.hpp"
 
 Vector Vector::GetNormalized() const 
